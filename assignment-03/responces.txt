@@ -1,0 +1,3 @@
+DNS translates domain names to IP addresses eliminating the need to memorize IP addresses
+Small files on computers with unique identifiers that web servers send to browsers
+The protocol, domain name and the path leading to a specific web page
