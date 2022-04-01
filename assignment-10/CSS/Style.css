@@ -1,0 +1,62 @@
+body {
+  background-color: #7e3a3d;
+  font-family: Waltari;
+  text-align: center;
+}
+
+div {
+  border: 5px solid #0d0d12;
+  display: inline-grid;
+}
+
+img{
+  border-radius: 50%;
+  border: 10px solid #7e3a3d;
+}
+
+.SawCleaver {
+  background-color: #e3b097;
+  height: 700px;
+  width: 700px;
+  display: inline-block;
+}
+
+#title {
+  font-size: 50px;
+background-color: #2f2936;
+color: #d05a42;
+margin: auto;
+padding: 20px;
+}
+
+.palette {
+  background-color: white;
+}
+
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.circle.one {
+  background-color: #7e3a3d;
+}
+
+.circle.two {
+  background-color: #0d0d12
+}
+
+.circle.three {
+  background-color: #2f2936
+}
+
+.circle.four {
+  background-color: #e3b097
+}
+
+.circle.five {
+  background-color: #d05a42
+}
