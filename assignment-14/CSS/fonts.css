@@ -1,0 +1,6 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'Fleshandblood';
+    src: url('../fonts/Fleshandblood-MVA4x.ttf') format('truetype');
+    font-style: normal;
+ }
