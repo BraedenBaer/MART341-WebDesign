@@ -1,0 +1,38 @@
+body {
+  background-color: #7e3a3d;
+
+}
+
+h1{
+  font-family: Fleshandblood;
+  font-size: 45px;
+}
+
+h2{
+  font-family: Fleshandblood;
+  font-size: 45px;
+}
+
+h3{
+  font-family: Fleshandblood;
+  font-size: 45px;
+}
+
+p{
+  font-family: Fleshandblood;
+  text-align:left;
+  font-size: 25px
+}
+
+div{
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px){
+  p{
+    font-size: 40px;
+  }
+  div > img{
+    max-width: 100%;
+  }
+}
